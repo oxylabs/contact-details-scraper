@@ -1,16 +1,16 @@
-# Contact-Details Scraper API
+# Contact Details Scraper API
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-Oxylabs’ [Contact-Details Scraper](https://oxylabs.io/products/scraper-api/web/contact-details-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an Contact-Details website effortlessly. This brief guide explains how an Contact-Details Scraper works and provides code examples to understand better how you can use it hassle-free.
+Oxylabs’ [Contact Details Scraper](https://oxylabs.io/products/scraper-api/web/contact-details-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract contact details information from any website effortlessly. This brief guide explains how a Contact Details Scraper works and provides code examples to understand better how you can use it hassle-free.
 
 ### How it works
 
-You can get Contact-Details results by providing your own URLs to our service. We can return the HTML for any Contact-Details page you like.
+You can get contact details in a form of HTML by providing a list of URLs to our service.
 
 #### Python code example
 
-The example below illustrates how you can get HTML of Contact-Details page.
+The example below illustrates how you can get HTML of an [oxylabs.io](https://oxylabs.io/about-us) page
 
 ```python
 import requests
@@ -52,4 +52,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Contact-Details Scraper, you can easily retrieve public information from any Contact-Details webpage. Gather essential information such as phone numbers, email addresses, or mailing addresses to better understand your target audience and stay ahead of your competitors. If you need any additional support, our team is always ready to help! Feel free to reach out through our live chat or send an email to hello@oxylabs.io.
+With our Contact Details Scraper, you can easily retrieve public contact information from any webpage. Gather essential information such as phone numbers, email addresses, or mailing addresses to better understand your target audience and stay ahead of your competitors. If you need any additional support, our team is always ready to help! Feel free to reach out through our live chat or send an email to hello@oxylabs.io.
